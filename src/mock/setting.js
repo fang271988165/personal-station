@@ -5,7 +5,7 @@ Mock.mock("/api/setting", "get", {
   data: {
     avatar: "https://img1.baidu.com/it/u=1884574694,1511898506&fm=26&fmt=auto&gp=0.jpg",
     siteTitle: "我的个人空间",
-    github: "https://github.com/DuYi-Edu",
+    github: "https://github.com/fang271988165",
     qq: "271988165",
     qqQrCode:
       "https://apps.eol.cn/app/upload/image/20200404/20200404013529_93805.png",
@@ -15,6 +15,6 @@ Mock.mock("/api/setting", "get", {
     mail: "fjtao997@gmail.com",
     icp: "小涛",
     githubName: "小涛",
-    favicon: "https://github.com/fang271988165",
+    favicon: "https://img1.baidu.com/it/u=1630367799,3226155686&fm=26&fmt=auto&gp=0.jpg",
   },
 });
